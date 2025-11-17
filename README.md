@@ -7,6 +7,9 @@ They are considered "preliminary" until the advent of proper official docu from 
 ### Sources
 
   * [EDAtec Devkit info](https://edatec.cn/docs/zh/cm0)
+  * [LCSC shop: CM0 Devkit](https://www.lcsc.com/product-detail/C51966415.html)
+      currently no further info/datasheets/EasyEDA symbols, but Devkit and some CM0 modules in stock
+  * [CNXSoft News about CM0](https://www.cnx-software.com/2025/09/23/raspberry-pi-cm0-castellated-module-features-raspberry-pi-rp3a0-system-in-package/)
 
 ### About
 
