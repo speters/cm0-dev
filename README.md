@@ -1,6 +1,18 @@
-# CM0_preliminary
+## CM0 datasheets and design files
 
-This repository contains Raspberry Pi CM0 compute module preliminary datasheets and KiCAD design files.
+[User aBUGSworstnightmare](https://forums.raspberrypi.com/memberlist.php?mode=viewprofile&u=152468) mentioned in the [RaspberryPi.com forums post "Re: What's a CM0?"](https://forums.raspberrypi.com/viewtopic.php?p=2349313#p2349313) that there is extensive info available:
+
+  * [CM0 datasheet (draft)[https://edatec.cn/storage/file/Raspberry%C2%A0Pi%C2%A0Compute%C2%A0Module%C2%A00-datasheet-draft-by%20Raspberry%20Pi.pdf]
+  * [CM0 IO board schematics](http://edatec.cn/storage/file/CM0%20IO%20Rev1%20SCH.pdf)
+  * [KiCAD design files](http://edatec.cn/storage/zip/20250920/d4be7476d8ce5a5a77f645ab08e852c5.zip)
+
+As this makes this repository superfluous, it is archived now.
+
+Thx for helping to collect info!
+
+## CM0_preliminary
+
+This repository contained (no archived) Raspberry Pi CM0 compute module preliminary datasheets and KiCAD design files.
 
 They are considered "preliminary" until the advent of proper [official docu from Raspberry Pi](https://datasheets.raspberrypi.com/).
 
